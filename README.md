@@ -59,9 +59,9 @@ No more text adventures. That wasn't good. But I knew someone who could help. I 
 "𝙷𝚎𝚢 𝙲𝙰... 𝚠𝚎 𝚐𝚘𝚝 𝚊 𝚓𝚘𝚋 𝚝𝚘 𝚍𝚘!"
 
 <!--
-### Written in CA65 and Worked Down to 989 Bytes
+## It's Line, Historical
 -->
-### 𝙸𝚝'𝚜 𝙻𝚒𝚔𝚎, 𝙷𝚒𝚜𝚝𝚘𝚛𝚒𝚌𝚊𝚕
+## 𝙸𝚝'𝚜 𝙻𝚒𝚔𝚎, 𝙷𝚒𝚜𝚝𝚘𝚛𝚒𝚌𝚊𝚕
 <!--
 Full code history of the work-down is provided for those interested. Beginning with a working CA65 example in 2039 bytes, we golf our way down to 999 bytes and satisfy the demands of The Guild.
 -->
