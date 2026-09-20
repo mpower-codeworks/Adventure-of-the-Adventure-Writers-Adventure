@@ -60,6 +60,10 @@ No more text adventures. That wasn't good. But I knew someone who could help. I 
 ## Written in CA65 and Worked Down to 999 Bytes
 -->
 ## 𝚁𝚎𝚠𝚛𝚒𝚝𝚝𝚎𝚗 𝚒𝚗 𝙲𝙰65 𝚊𝚗𝚍 𝚆𝚘𝚛𝚔𝚎𝚍 𝙳𝚘𝚠𝚗 𝚝𝚘 999 𝙱𝚢𝚝𝚎𝚜
+<img src="images/HIST.jpg"
+    align="left"
+    width="18%"
+    alt="HIST.jpg">
 <!--
 Full code history of the work-down is provided for those interested. Beginning with a working CA65 example in 2039 bytes, we golf our way down to 999 bytes and satisfy the demands of The Guild.
 -->
