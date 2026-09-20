@@ -35,7 +35,7 @@ No more text adventures. That wasn't good. But I knew someone who could help. I 
 
 <img src="images/TTAWG.jpg"
     align="right"
-    width="15%"
+    width="30%"
     alt="TTWAG.jpg">
 
 "𝚆𝚎 𝚑𝚊𝚟𝚎 𝚊 𝚜𝚒𝚝𝚞𝚊𝚝𝚒𝚘𝚗. 𝚃𝚑𝚎 𝚝𝚎𝚡𝚝 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎𝚜... 𝚝𝚑𝚎𝚢'𝚛𝚎... 𝚐𝚘𝚗𝚎"
