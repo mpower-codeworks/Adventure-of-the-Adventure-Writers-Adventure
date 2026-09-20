@@ -35,7 +35,7 @@ No more text adventures. That wasn't good. But I knew someone who could help. I 
 
 <img src="images/TTAWG.jpg"
     align="right"
-    width="30%"
+    width="18%"
     alt="TTWAG.jpg">
 
 "𝚆𝚎 𝚑𝚊𝚟𝚎 𝚊 𝚜𝚒𝚝𝚞𝚊𝚝𝚒𝚘𝚗. 𝚃𝚑𝚎 𝚝𝚎𝚡𝚝 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎𝚜... 𝚝𝚑𝚎𝚢'𝚛𝚎... 𝚐𝚘𝚗𝚎"
@@ -62,7 +62,7 @@ No more text adventures. That wasn't good. But I knew someone who could help. I 
 ## 𝚁𝚎𝚠𝚛𝚒𝚝𝚝𝚎𝚗 𝚒𝚗 𝙲𝙰65 𝚊𝚗𝚍 𝚆𝚘𝚛𝚔𝚎𝚍 𝙳𝚘𝚠𝚗 𝚝𝚘 999 𝙱𝚢𝚝𝚎𝚜
 <img src="images/HIST.jpg"
     align="left"
-    width="18%"
+    width="28%"
     alt="HIST.jpg">
 <!--
 Full code history of the work-down is provided for those interested. Beginning with a working CA65 example in 2039 bytes, we golf our way down to 999 bytes and satisfy the demands of The Guild.
