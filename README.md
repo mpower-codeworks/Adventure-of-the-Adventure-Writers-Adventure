@@ -146,5 +146,6 @@ Two small changes to the original were required because we don't have the BASIC 
 ### 𝙾𝚑, 𝚢𝚘𝚞 𝚖𝚊𝚢 𝚠𝚊𝚗𝚝 𝚝𝚑𝚒𝚜...
 
 <img src="images/MAP.png"
+    align="center"
     width="60%"
     alt="MAP.png">
