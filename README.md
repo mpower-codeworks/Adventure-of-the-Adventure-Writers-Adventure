@@ -3,7 +3,7 @@
 -->
 ## 𝙰𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎 𝚘𝚏 𝚝𝚑𝚎 𝙰𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎 𝚆𝚛𝚒𝚝𝚎𝚛𝚜 𝙰𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎
 
-𝚁𝚎𝚠𝚛𝚒𝚝𝚝𝚎𝚗 𝚒𝚗 𝙲𝙰65 𝚊𝚗𝚍 𝚆𝚘𝚛𝚔𝚎𝚍 𝙳𝚘𝚠𝚗 𝚝𝚘 989 𝙱𝚢𝚝𝚎𝚜
+### 𝚁𝚎𝚠𝚛𝚒𝚝𝚝𝚎𝚗 𝚒𝚗 𝙲𝙰65 𝚊𝚗𝚍 𝚆𝚘𝚛𝚔𝚎𝚍 𝙳𝚘𝚠𝚗 𝚝𝚘 989 𝙱𝚢𝚝𝚎𝚜
 
 <!--
 September 2026. At the peak of the Storage Wars there was a kilobyte shortage, and disk space was at a premium. Successive generations of annual sports-game releases had finally filled the world’s hard drives, leaving only a few unregulated loose sectors for civilian use.
