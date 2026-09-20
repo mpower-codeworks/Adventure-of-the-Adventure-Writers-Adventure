@@ -19,11 +19,11 @@
            ;; logs BASIC to CA65 ;;
            ;;;;;;;;;;;;;;;;;;;;;;;;
 
-      ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-      ;; all comments and code are  ;;
-      ;; left in from old builds as ;;
-      ;;  notes and documentation   ;;
-      ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+       ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+       ;; all comments and code are  ;;
+       ;; left in from old builds as ;;
+       ;;  notes and documentation   ;;
+       ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;; -------
 ;; history
