@@ -3,6 +3,8 @@
 -->
 ## 𝙰𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎 𝚘𝚏 𝚝𝚑𝚎 𝙰𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎 𝚆𝚛𝚒𝚝𝚎𝚛𝚜 𝙰𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎
 
+𝚁𝚎𝚠𝚛𝚒𝚝𝚝𝚎𝚗 𝚒𝚗 𝙲𝙰65 𝚊𝚗𝚍 𝚆𝚘𝚛𝚔𝚎𝚍 𝙳𝚘𝚠𝚗 𝚝𝚘 989 𝙱𝚢𝚝𝚎𝚜
+
 <!--
 September 2026. At the peak of the Storage Wars there was a kilobyte shortage, and disk space was at a premium. Successive generations of annual sports-game releases had finally filled the world’s hard drives, leaving only a few unregulated loose sectors for civilian use.
 My phone rang with the urgency of Red Alert on the Enterprise (because that was my ring tone). It was the Guild. The Text Adventure Writers Guild. TTAWG. T-TAWG. TAWGS. TAWGster.
@@ -59,7 +61,7 @@ No more text adventures. That wasn't good. But I knew someone who could help. I 
 <!--
 ### Written in CA65 and Worked Down to 999 Bytes
 -->
-### 𝚁𝚎𝚠𝚛𝚒𝚝𝚝𝚎𝚗 𝚒𝚗 𝙲𝙰65 𝚊𝚗𝚍 𝚆𝚘𝚛𝚔𝚎𝚍 𝙳𝚘𝚠𝚗 𝚝𝚘 999 𝙱𝚢𝚝𝚎𝚜
+### 𝚁𝚎𝚠𝚛𝚒𝚝𝚝𝚎𝚗 𝚒𝚗 𝙲𝙰65 𝚊𝚗𝚍 𝚆𝚘𝚛𝚔𝚎𝚍 𝙳𝚘𝚠𝚗 𝚝𝚘 989 𝙱𝚢𝚝𝚎𝚜
 <!--
 Full code history of the work-down is provided for those interested. Beginning with a working CA65 example in 2039 bytes, we golf our way down to 999 bytes and satisfy the demands of The Guild.
 -->
