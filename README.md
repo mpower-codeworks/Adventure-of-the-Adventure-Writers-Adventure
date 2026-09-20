@@ -9,7 +9,7 @@
 September 2026. At the peak of the Storage Wars there was a kilobyte shortage, and disk space was at a premium. Successive generations of annual sports-game releases had finally filled the world’s hard drives, leaving only a few unregulated loose sectors for civilian use.
 My phone rang with the urgency of Red Alert on the Enterprise (because that was my ring tone). It was the Guild. The Text Adventure Writers Guild. TTAWG. T-TAWG. TAWGS. TAWGster.
 
-"We have a situation. The text adventures... they're... gone"
+"We have a situation. The text adventures... they're... gone."
 
 "Wha..?"
 
@@ -40,7 +40,7 @@ No more text adventures. That wasn't good. But I knew someone who could help. I 
     width="18%"
     alt="TTWAG.jpg">
 
-"𝚆𝚎 𝚑𝚊𝚟𝚎 𝚊 𝚜𝚒𝚝𝚞𝚊𝚝𝚒𝚘𝚗. 𝚃𝚑𝚎 𝚝𝚎𝚡𝚝 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎𝚜... 𝚝𝚑𝚎𝚢'𝚛𝚎... 𝚐𝚘𝚗𝚎"
+"𝚆𝚎 𝚑𝚊𝚟𝚎 𝚊 𝚜𝚒𝚝𝚞𝚊𝚝𝚒𝚘𝚗. 𝚃𝚑𝚎 𝚝𝚎𝚡𝚝 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎𝚜... 𝚝𝚑𝚎𝚢'𝚛𝚎... 𝚐𝚘𝚗𝚎."
 
 "𝚆𝚑𝚊..?"
 
@@ -48,7 +48,7 @@ No more text adventures. That wasn't good. But I knew someone who could help. I 
 
 "𝚂𝚎𝚎𝚖𝚜 𝚜𝚝𝚛𝚊𝚒𝚐𝚑𝚝-𝚏𝚘𝚛𝚠𝚊𝚛𝚍 𝚎𝚗𝚘𝚞𝚐𝚑."
 
-"𝙽𝚘𝚝 𝚜𝚘 𝚏𝚊𝚜𝚝, 𝙼𝙿. 𝙰𝙰𝚆𝙰 𝚒𝚜 𝙱𝙻𝙾𝙰𝚃𝙴𝙳. 𝙼𝚊𝚜𝚜𝚒𝚟𝚎. 𝚂𝚝𝚘𝚛𝚊𝚐𝚎-𝚍𝚎𝚜𝚝𝚛𝚘𝚢𝚒𝚗𝚐. 𝙸𝚝'𝚜 2.5𝚔𝚋 𝚘𝚗 𝚍𝚒𝚜𝚔 𝚊𝚗𝚍... 𝙸 𝚍𝚘𝚗'𝚝 𝚔𝚗𝚘𝚠 𝚒𝚏 𝙸 𝚜𝚑𝚘𝚞𝚕𝚍 𝚜𝚊𝚢 𝚝𝚑𝚒𝚜 𝚋𝚞𝚝... 𝚒𝚝 𝚗𝚎𝚎𝚍𝚜 𝚊 𝚛𝚎𝚜𝚒𝚍𝚎𝚗𝚝 𝚒𝚗𝚝𝚎𝚛𝚙𝚛𝚎𝚝𝚎𝚛. 𝙰𝚗 𝚒𝚗𝚝𝚎𝚛𝚙𝚛𝚎𝚝𝚎𝚛, 𝙼𝙿! 𝚃𝚑𝚊𝚝'𝚜 𝚊 𝚑𝚒𝚍𝚍𝚎𝚗 𝚌𝚘𝚜𝚝, 𝚊𝚗𝚍 𝚝𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝚗𝚘 𝚔𝚒𝚕𝚘𝚋𝚢𝚝𝚎𝚜 𝚕𝚎𝚏𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝚆𝚎 𝚗𝚎𝚎𝚍 𝚊𝚗 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎 𝚐𝚊𝚖𝚎 𝚒𝚗 𝙱𝚈𝚃𝙴𝚂."
+"𝙽𝚘𝚝 𝚜𝚘 𝚏𝚊𝚜𝚝, 𝙼𝙿. 𝙰𝙰𝚆𝙰 𝚒𝚜 𝙱𝙻𝙾𝙰𝚃𝙴𝙳. 𝙼𝚊𝚜𝚜𝚒𝚟𝚎. 𝚂𝚝𝚘𝚛𝚊𝚐𝚎-𝚍𝚎𝚜𝚝𝚛𝚘𝚢𝚒𝚗𝚐. 𝙸𝚝'𝚜 2.5𝚔𝚋 𝚘𝚗 𝚍𝚒𝚜𝚔 𝚊𝚗𝚍... 𝙸 𝚍𝚘𝚗'𝚝 𝚔𝚗𝚘𝚠 𝚒𝚏 𝙸 𝚜𝚑𝚘𝚞𝚕𝚍 𝚜𝚊𝚢 𝚝𝚑𝚒𝚜 𝚋𝚞𝚝... 𝚒𝚝 𝚗𝚎𝚎𝚍𝚜 𝚊 𝚛𝚎𝚜𝚒𝚍𝚎𝚗𝚝 𝚒𝚗𝚝𝚎𝚛𝚙𝚛𝚎𝚝𝚎𝚛. 𝙰𝚗 𝚒𝚗𝚝𝚎𝚛𝚙𝚛𝚎𝚝𝚎𝚛, 𝙼𝙿! 𝚃𝚑𝚊𝚝'𝚜 𝚊 𝚑𝚒𝚍𝚍𝚎𝚗 𝚌𝚘𝚜𝚝, 𝚊𝚗𝚍 𝚝𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝚗𝚘 𝚔𝚒𝚕𝚘𝚋𝚢𝚝𝚎𝚜 𝚕𝚎𝚏𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝚆𝚎 𝚗𝚎𝚎𝚍 𝚊𝚗 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎 𝚐𝚊𝚖𝚎 𝚒𝚗 𝙱𝚈𝚃𝙴𝚂!"
 
 "𝚃𝚑𝚊𝚝'𝚜 𝚒𝚖𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎", 𝙸 𝚌𝚘𝚖𝚖𝚎𝚗𝚝𝚎𝚍.
 
