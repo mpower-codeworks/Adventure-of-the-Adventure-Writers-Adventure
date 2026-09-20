@@ -123,4 +123,6 @@ Full code history of the work-down is provided for those interested. Beginning w
 -->
 ### 𝙾𝚑, 𝚢𝚘𝚞 𝚖𝚊𝚢 𝚠𝚊𝚗𝚝 𝚝𝚑𝚒𝚜...
 
-
+<img src="images/MAP.png"
+    width="60%"
+    alt="HIST.jpg">
