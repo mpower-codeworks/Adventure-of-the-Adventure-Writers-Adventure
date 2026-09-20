@@ -147,4 +147,4 @@ Two small changes to the original were required because we don't have the BASIC 
 
 <img src="images/MAP.png"
     width="60%"
-    alt="HIST.jpg">
+    alt="MAP.png">
